@@ -1,0 +1,33 @@
+.btn-twitter {
+  background: #00acee;
+  border-color: #009ad5;
+}
+.btn-facebook {
+  background: #4868ac;
+  border-color: #314776
+}
+.btn-pinterest {
+  background: #b62f26;
+  border-color: #b62f26;
+}
+
+.resizeImage{
+  height: 250px;
+  width: auto;
+}
+
+.jumbotron {
+  background-image: url(https://d1rxvdm0rjmjgy.cloudfront.net/srv/images/creme-chantilly-300x300.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+
+#mission {
+  background: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+}
+
+body {
+  padding-top: 70px;
+}
